@@ -1,9 +1,9 @@
 ### Hi there 👋
-👋 Hi I'm Alyssa Sanchez currently studing Computer Science
-👩‍💻 I'm interested in Web Development and hopefully I can build cool amazing web applications
-😸 And i love cats! mine's name Gaspar
+### 👋 Hi I'm Alyssa Sanchez currently studing Computer Science
+### 👩‍💻 I'm interested in Web Development and hopefully I can build cool amazing web applications
+### 😸 And i love cats! mine's name Gaspar
 
-📩
+### 📩
   - sanchezaeinstein@gmail.com
 
 <!--
